@@ -1,0 +1,1 @@
+/Users/bytedance/.config/nvim/init.vim
